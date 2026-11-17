@@ -7,7 +7,7 @@ module.exports = {
     name: "boxinfo",
     aliases: ["groupinfo"],
     version: "2.2.0",
-    author: "Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ",
+    author: "Ridh Islam Ayan",
     role: 1,
     shortDescription: "Group info",
     category: "box chat",
