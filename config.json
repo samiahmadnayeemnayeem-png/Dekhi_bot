@@ -14,8 +14,8 @@
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "𝙃𝙞𝙣𝙖𝙏'𝙖 𝙐𝙯𝙪𝙢𝙖𝙆'𝙞𝙞 ᯓᡣ𐭩",
   "prefix": "/",
-  "enableTypingIndicator": true,
-  "notesTypingIndicator": "true = show 'is typing...' for the humanizer delay before replying | false = reply instantly, no typing shown",
+  "enableTypingIndicator": false,
+  "notesTypingIndicator": "false = show 'is typing...' for the humanizer delay before replying | false = reply instantly, no typing shown",
   "humanizer": {
     "enable": true,
     "delayMs": 1000,
