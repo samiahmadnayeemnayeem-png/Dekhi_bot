@@ -49,12 +49,7 @@ module.exports = {
       // Text Triggers
       // ==========================
       const texts = [
-        { k: ["haha","lol","moja","xd"], r: "😆" },
-        { k: ["sad","kharap","mon kharap","cry"], r: "😢" },
-        { k: ["love","valobasi","miss"], r: "❤️" },
-        { k: ["rag","angry","rage"], r: "😡" },
-        { k: ["wow","omg"], r: "😮" },
-        { k: ["ok","yes","okay","hmm"], r: "👍" }
+        { k: ["ridh",r "🗿" }
       ];
 
       // ==========================
